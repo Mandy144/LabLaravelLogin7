@@ -220,17 +220,17 @@ php artisan migrate:fresh
 ### 📦 Respaldo de Base de Datos
 
 Se incluye un respaldo de la base de datos en el directorio `/database/backups/`:
-- Archivo: `laravel_login_backup.sql`
+- Archivo: `LabLaravelLogin7backup.sql`
 - Fecha de creación: 28 de septiembre de 2025
 
 **Comando para crear el backup:**
 ```bash
-mysqldump -u root -p laravel_login > database/backups/laravel_login_backup.sql
+mysqldump -u root -p LabLaravelLogin7 > database/backups/LabLaravelLogin7.sql
 ```
 
 **Comando para restaurar el backup:**
 ```bash
-mysql -u root -p laravel_login < database/backups/laravel_login_backup.sql
+mysql -u root -p LabLaravelLogin7 < database/backups/LabLaravelLogin7backup.sql
 ```
 
 ---
@@ -464,7 +464,7 @@ Licenciatura en Ingeniería de Software
 |---------|-------------|
 | **Laboratorio** | #2 - Implementación del Login en Laravel |
 | **Fecha de Inicio** | 22 de septiembre de 2025 |
-| **Fecha de Ejecución** | [Fecha en que realizaste el lab] |
+| **Fecha de Ejecución** | 28 de septiembre de 2025 |
 | **Fecha de Entrega** | 29 de septiembre de 2025 |
 | **Semestre** | II Semestre 2025 |
 
@@ -476,32 +476,7 @@ Licenciatura en Ingeniería de Software
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu.correo@estudiante.utp.ac.pa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
 
----
 
-### 📈 Estadísticas del Proyecto
-
-![Laravel](https://img.shields.io/badge/Framework-Laravel%2010.x-red?style=flat-square&logo=laravel)
-![PHP](https://img.shields.io/badge/PHP-8.0%2B-blue?style=flat-square&logo=php)
-![License](https://img.shields.io/badge/License-Academic-green?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Completado-success?style=flat-square)
-
-</div>
-
----
-
-<div align="center">
-
-**⭐ Si este proyecto te fue útil como referencia, considera darle una estrella ⭐**
-
-*Laboratorio desarrollado con dedicación para el curso de Ingeniería Web* 💙
-
----
-
-### 🔒 Nota de Integridad Académica
-
-Este proyecto fue desarrollado siguiendo los lineamientos y políticas de integridad académica de la Universidad Tecnológica de Panamá. Todo el código y documentación es producto del trabajo individual del estudiante bajo la supervisión de la instructora del laboratorio.
-
----
 
 **© 2025 - Universidad Tecnológica de Panamá**  
 *Todos los derechos reservados*
