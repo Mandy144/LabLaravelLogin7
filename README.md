@@ -130,7 +130,7 @@ php artisan key:generate
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=laravel_login
+DB_DATABASE=LabLaravelLogin7
 DB_USERNAME=root
 DB_PASSWORD=
 ```
@@ -181,7 +181,7 @@ php artisan serve
 
 1. **Creación de la Base de Datos**
    ```sql
-   CREATE DATABASE laravel_login CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+   CREATE DATABASE LabLaravelLogin7 CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
    ```
 
 2. **Configuración en .env**
@@ -251,15 +251,15 @@ mysql -u root -p LabLaravelLogin7 < database/backups/LabLaravelLogin7backup.sql
 ### Capturas de Pantalla
 
 #### 🔑 Página de Login
-![Página de Login](screenshots/login.png)
+![Página de Login](Imagenes/login.png)
 *Interfaz moderna y atractiva para el inicio de sesión*
 
 #### 📝 Página de Registro
-![Página de Registro](screenshots/register.png)
+![Página de Registro](Imagenes/register.png)
 *Formulario de registro con validación en tiempo real*
 
 #### 📊 Dashboard
-![Dashboard del Usuario](screenshots/dashboard.png)
+![Dashboard del Usuario](/dashboard.Imagenespng)
 *Panel principal después de autenticación exitosa*
 
 #### 🎨 Diseño Mejorado
