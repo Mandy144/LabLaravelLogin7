@@ -259,7 +259,7 @@ mysql -u root -p LabLaravelLogin7 < database/backups/LabLaravelLogin7backup.sql
 *Formulario de registro con validación en tiempo real*
 
 #### 📊 Dashboard
-![Dashboard del Usuario](/dashboard.Imagenespng)
+![Dashboard del Usuario](Imagenes/dashboard.png)
 *Panel principal después de autenticación exitosa*
 
 #### 🎨 Diseño Mejorado
