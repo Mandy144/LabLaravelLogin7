@@ -8,7 +8,7 @@
 </p>
 
 ## About Laravel
-# 🔐 Laboratorio #2 - Implementación del Login en Laravel
+# Laboratorio #2 - Implementación del Login en Laravel
 
 ## 📋 Tabla de Contenidos
 - [Introducción](#introducción)
