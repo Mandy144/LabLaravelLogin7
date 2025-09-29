@@ -251,11 +251,11 @@ mysql -u root -p LabLaravelLogin7 < database/backups/LabLaravelLogin7backup.sql
 ### Capturas de Pantalla
 
 #### 🔑 Página de Login
-![Página de Login](Imagenes/login.png)
+![Página de Login](Imagenes/Login.png)
 *Interfaz moderna y atractiva para el inicio de sesión*
 
 #### 📝 Página de Registro
-![Página de Registro](Imagenes/register.png)
+![Página de Registro](Imagenes/Register.png)
 *Formulario de registro con validación en tiempo real*
 
 #### 📊 Dashboard
